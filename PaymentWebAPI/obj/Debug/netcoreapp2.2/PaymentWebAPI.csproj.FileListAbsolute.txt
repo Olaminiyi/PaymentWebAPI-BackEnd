@@ -1,0 +1,14 @@
+C:\Users\dosam\Source\Repos\PaymentWebAPI\PaymentWebAPI\bin\Debug\netcoreapp2.2\PaymentWebAPI.deps.json
+C:\Users\dosam\Source\Repos\PaymentWebAPI\PaymentWebAPI\bin\Debug\netcoreapp2.2\PaymentWebAPI.runtimeconfig.json
+C:\Users\dosam\Source\Repos\PaymentWebAPI\PaymentWebAPI\bin\Debug\netcoreapp2.2\PaymentWebAPI.runtimeconfig.dev.json
+C:\Users\dosam\Source\Repos\PaymentWebAPI\PaymentWebAPI\bin\Debug\netcoreapp2.2\PaymentWebAPI.dll
+C:\Users\dosam\Source\Repos\PaymentWebAPI\PaymentWebAPI\obj\Debug\netcoreapp2.2\PaymentWebAPI.csprojAssemblyReference.cache
+C:\Users\dosam\Source\Repos\PaymentWebAPI\PaymentWebAPI\obj\Debug\netcoreapp2.2\PaymentWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\dosam\Source\Repos\PaymentWebAPI\PaymentWebAPI\obj\Debug\netcoreapp2.2\PaymentWebAPI.RazorAssemblyInfo.cache
+C:\Users\dosam\Source\Repos\PaymentWebAPI\PaymentWebAPI\obj\Debug\netcoreapp2.2\PaymentWebAPI.RazorAssemblyInfo.cs
+C:\Users\dosam\Source\Repos\PaymentWebAPI\PaymentWebAPI\obj\Debug\netcoreapp2.2\PaymentWebAPI.AssemblyInfoInputs.cache
+C:\Users\dosam\Source\Repos\PaymentWebAPI\PaymentWebAPI\obj\Debug\netcoreapp2.2\PaymentWebAPI.AssemblyInfo.cs
+C:\Users\dosam\Source\Repos\PaymentWebAPI\PaymentWebAPI\obj\Debug\netcoreapp2.2\PaymentWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\dosam\Source\Repos\PaymentWebAPI\PaymentWebAPI\bin\Debug\netcoreapp2.2\PaymentWebAPI.pdb
+C:\Users\dosam\Source\Repos\PaymentWebAPI\PaymentWebAPI\obj\Debug\netcoreapp2.2\PaymentWebAPI.dll
+C:\Users\dosam\Source\Repos\PaymentWebAPI\PaymentWebAPI\obj\Debug\netcoreapp2.2\PaymentWebAPI.pdb
